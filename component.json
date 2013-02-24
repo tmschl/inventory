@@ -1,0 +1,8 @@
+{
+  "name": "Inventory",
+  "version": "0.0.1",
+  "main": "",
+  "dependencies": {
+    "jquery": "latest"
+  }
+}

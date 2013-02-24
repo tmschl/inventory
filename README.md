@@ -1,13 +1,5 @@
-Hey Dinkus. Stop forgetting.
+# Inventory
 
-I'm Not FORGETTING ANYTHING!
+### Scruff McGruff your Stuff
 
-### To-do List
-- Get Backbone itegrated
-- Get Requrie integrated
-- Use the grunt-libsass task?
-- Design this bad boy and put the PSD's in the repo?
-
-### What Robb did
-- Updated this file
-- Added Jade
+Inventory is a personal inventory management system. It helps you never again lose those beach towels, jeans or srub trimmers you let your friends borrow. It's a data-driven experiement in helping humans with stuff they don't like to think about. 
