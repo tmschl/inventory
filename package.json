@@ -2,6 +2,16 @@
   "name": "Inventory",
   "description": "Personal Inventory Management App",
   "version": "0.0.1",
+  "contributors": [
+      {
+          "name":"Tim Schiller",
+          "email":"tim@keen.io"
+      },
+      {
+        "name":"Robb Schiller",
+        "email":"robb@futura.io"
+      }
+    ],
   "private": true,
   "dependencies": {
     "express": "latest",
