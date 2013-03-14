@@ -1,6 +1,6 @@
-/* Is the route supposed to get the homepage?
+/* Get the homepage.
 */
 
 exports.index = function(req, res){
-  res.send('Hello World');
+  res.render('index', { title: 'Inventory' });
 };
