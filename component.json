@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "",
   "dependencies": {
-    "jquery": "latest",
+  	"modernizr": "latest",
+    "require": "latest",
     "backbone": "latest",
     "underscore": "latest"
   }
